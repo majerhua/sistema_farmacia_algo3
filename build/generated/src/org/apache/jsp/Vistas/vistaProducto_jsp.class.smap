@@ -1,0 +1,25 @@
+SMAP
+vistaProducto_jsp.java
+JSP
+*S JSP
+*F
++ 0 vistaProducto.jsp
+Vistas/vistaProducto.jsp
++ 1 conexion.jsp
+Vistas/../Conexion/conexion.jsp
+*L
+5,5:53
+5#1,22:57
+26:79
+9#0,26:80
+35,13:107
+47,37:120
+84,13:158
+96,3:171
+99:174,3
+100,6:177
+106:183,3
+107,4:186
+110,7:190
+116,30:197
+*E
